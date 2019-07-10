@@ -12,6 +12,5 @@ int main(void)
 	
 	// Configure the port as output/input
 	
-	
 	return 0;
 }
